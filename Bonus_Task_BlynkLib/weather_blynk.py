@@ -6,7 +6,7 @@ from machine import Pin
 import ssd1306
 from machine import Pin, I2C
 
-# ---- USER SETTINGS ----
+# ---- USER SETTINGS ---
 WIFI_SSID = "TampleDiago"    
 WIFI_PASS = "12345688"        
 BLYNK_AUTH = "yVAEXaOl0SWlhP8Q08nl5soyo7OMg3Eg"

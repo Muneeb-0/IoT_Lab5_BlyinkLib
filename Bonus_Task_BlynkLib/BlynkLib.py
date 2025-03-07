@@ -4,7 +4,7 @@ import BlynkLib
 import neopixel
 import machine
 
-# ---- USER SETTINGS ----
+# ---- USER SETTINGS ---
 WIFI_SSID = "TampleDiago"       # Replace with your Wi-Fi SSID
 WIFI_PASS = "12345688"   # Replace with your Wi-Fi Password
 BLYNK_AUTH = "sR_xNIQli09vFLeYfatAESq3k0fcACLA"    # Replace with your Blynk Auth Token

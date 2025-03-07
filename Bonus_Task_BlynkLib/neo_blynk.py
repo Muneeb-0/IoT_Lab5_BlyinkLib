@@ -12,7 +12,7 @@ WIFI_PASS = "12345688"
 BLYNK_AUTH = "sR_xNIQli09vFLeYfatAESq3k0fcACLA"    
 
 NEOPIXEL_PIN = 48   # GPIO pin where NeoPixel is connected
-NUM_PIXELS = 1      # Number of NeoPixels
+NUM_PIXELS = 1      # Number of NeoPixel
 
 # ---- CONNECT TO WIFI ----
 def connect_wifi():
